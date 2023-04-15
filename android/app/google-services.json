@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1050451827258",
+    "project_id": "moody-much",
+    "storage_bucket": "moody-much.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050451827258:android:de9e2be5363bc612283303",
+        "android_client_info": {
+          "package_name": "com.example.moodymuch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050451827258-1r9kohhb2fngb7nj38dh6rb3ig1ctfe2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moodymuch",
+            "certificate_hash": "d45be0f855d4b4f7e492b38ad71f58b1b6a9b155"
+          }
+        },
+        {
+          "client_id": "1050451827258-4tm2lsolnbg6moc4nlp1lh7rfbea7a1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsAoaYAa9ct8vUgoqqT-eGrnRJqT35640"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050451827258-4tm2lsolnbg6moc4nlp1lh7rfbea7a1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
