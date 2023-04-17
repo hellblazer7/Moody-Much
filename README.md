@@ -53,8 +53,7 @@ The app uses Google ML Kit for mood detection, and uses Firebase for data storag
 
 ### Snake Game Instructions Screen
 
-![snake instruction](https://user-images.githubusercontent.com/78225772/232559765-0f0c4579-74af-4668-aa55-9b31aba01b5c.jpg)
-<img src="https://user-images.githubusercontent.com/78225772/232558300-3863643a-cd83-4adb-ba05-65a13c197cd4.jpg" width="270" height="600">
+<img src="https://user-images.githubusercontent.com/78225772/232559765-0f0c4579-74af-4668-aa55-9b31aba01b5c.jpg" width="270" height="600">
 
 ### Meme Loading Screen
 
