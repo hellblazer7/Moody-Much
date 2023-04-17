@@ -8,13 +8,11 @@ The app uses Google ML Kit for mood detection, and uses Firebase for data storag
 
 ## Screenshots of App
 
-### Splash Screen
+### Splash Screen                                               | Gateway Screen
 
-![Splash Screen](https://user-images.githubusercontent.com/78225772/232558097-368d616e-a907-40bd-a805-e81f960ed72b.jpg) {:height="36px" width="36px"}.
-
-### Gateway Screen
-
+![Splash Screen](https://user-images.githubusercontent.com/78225772/232558097-368d616e-a907-40bd-a805-e81f960ed72b.jpg) | 
 ![Gateway Screen](https://user-images.githubusercontent.com/78225772/232558300-3863643a-cd83-4adb-ba05-65a13c197cd4.jpg)
+
 
 ### Sign In Screen
 
